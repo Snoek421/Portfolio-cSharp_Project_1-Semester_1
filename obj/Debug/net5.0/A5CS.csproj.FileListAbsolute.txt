@@ -1,0 +1,32 @@
+O:\School\Prog1781 - programming concepts\Assignment 5\A5CS\bin\Debug\net5.0\A5CS.exe
+O:\School\Prog1781 - programming concepts\Assignment 5\A5CS\bin\Debug\net5.0\A5CS.deps.json
+O:\School\Prog1781 - programming concepts\Assignment 5\A5CS\bin\Debug\net5.0\A5CS.runtimeconfig.json
+O:\School\Prog1781 - programming concepts\Assignment 5\A5CS\bin\Debug\net5.0\A5CS.runtimeconfig.dev.json
+O:\School\Prog1781 - programming concepts\Assignment 5\A5CS\bin\Debug\net5.0\A5CS.dll
+O:\School\Prog1781 - programming concepts\Assignment 5\A5CS\bin\Debug\net5.0\ref\A5CS.dll
+O:\School\Prog1781 - programming concepts\Assignment 5\A5CS\bin\Debug\net5.0\A5CS.pdb
+O:\School\Prog1781 - programming concepts\Assignment 5\A5CS\obj\Debug\net5.0\A5CS.csproj.AssemblyReference.cache
+O:\School\Prog1781 - programming concepts\Assignment 5\A5CS\obj\Debug\net5.0\A5CS.GeneratedMSBuildEditorConfig.editorconfig
+O:\School\Prog1781 - programming concepts\Assignment 5\A5CS\obj\Debug\net5.0\A5CS.AssemblyInfoInputs.cache
+O:\School\Prog1781 - programming concepts\Assignment 5\A5CS\obj\Debug\net5.0\A5CS.AssemblyInfo.cs
+O:\School\Prog1781 - programming concepts\Assignment 5\A5CS\obj\Debug\net5.0\A5CS.csproj.CoreCompileInputs.cache
+O:\School\Prog1781 - programming concepts\Assignment 5\A5CS\obj\Debug\net5.0\A5CS.dll
+O:\School\Prog1781 - programming concepts\Assignment 5\A5CS\obj\Debug\net5.0\ref\A5CS.dll
+O:\School\Prog1781 - programming concepts\Assignment 5\A5CS\obj\Debug\net5.0\A5CS.pdb
+O:\School\Prog1781 - programming concepts\Assignment 5\A5CS\obj\Debug\net5.0\A5CS.genruntimeconfig.cache
+C:\Users\twoe_\OneDrive - Conestoga College\School\Y1S1\Prog1781 - programming concepts\Assignment 5\A5CS\bin\Debug\net5.0\A5CS.exe
+C:\Users\twoe_\OneDrive - Conestoga College\School\Y1S1\Prog1781 - programming concepts\Assignment 5\A5CS\bin\Debug\net5.0\A5CS.deps.json
+C:\Users\twoe_\OneDrive - Conestoga College\School\Y1S1\Prog1781 - programming concepts\Assignment 5\A5CS\bin\Debug\net5.0\A5CS.runtimeconfig.json
+C:\Users\twoe_\OneDrive - Conestoga College\School\Y1S1\Prog1781 - programming concepts\Assignment 5\A5CS\bin\Debug\net5.0\A5CS.runtimeconfig.dev.json
+C:\Users\twoe_\OneDrive - Conestoga College\School\Y1S1\Prog1781 - programming concepts\Assignment 5\A5CS\bin\Debug\net5.0\A5CS.dll
+C:\Users\twoe_\OneDrive - Conestoga College\School\Y1S1\Prog1781 - programming concepts\Assignment 5\A5CS\bin\Debug\net5.0\A5CS.pdb
+C:\Users\twoe_\OneDrive - Conestoga College\School\Y1S1\Prog1781 - programming concepts\Assignment 5\A5CS\obj\Debug\net5.0\A5CS.csproj.AssemblyReference.cache
+C:\Users\twoe_\OneDrive - Conestoga College\School\Y1S1\Prog1781 - programming concepts\Assignment 5\A5CS\obj\Debug\net5.0\A5CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\twoe_\OneDrive - Conestoga College\School\Y1S1\Prog1781 - programming concepts\Assignment 5\A5CS\obj\Debug\net5.0\A5CS.AssemblyInfoInputs.cache
+C:\Users\twoe_\OneDrive - Conestoga College\School\Y1S1\Prog1781 - programming concepts\Assignment 5\A5CS\obj\Debug\net5.0\A5CS.AssemblyInfo.cs
+C:\Users\twoe_\OneDrive - Conestoga College\School\Y1S1\Prog1781 - programming concepts\Assignment 5\A5CS\obj\Debug\net5.0\A5CS.csproj.CoreCompileInputs.cache
+C:\Users\twoe_\OneDrive - Conestoga College\School\Y1S1\Prog1781 - programming concepts\Assignment 5\A5CS\obj\Debug\net5.0\A5CS.dll
+C:\Users\twoe_\OneDrive - Conestoga College\School\Y1S1\Prog1781 - programming concepts\Assignment 5\A5CS\obj\Debug\net5.0\refint\A5CS.dll
+C:\Users\twoe_\OneDrive - Conestoga College\School\Y1S1\Prog1781 - programming concepts\Assignment 5\A5CS\obj\Debug\net5.0\A5CS.pdb
+C:\Users\twoe_\OneDrive - Conestoga College\School\Y1S1\Prog1781 - programming concepts\Assignment 5\A5CS\obj\Debug\net5.0\A5CS.genruntimeconfig.cache
+C:\Users\twoe_\OneDrive - Conestoga College\School\Y1S1\Prog1781 - programming concepts\Assignment 5\A5CS\obj\Debug\net5.0\ref\A5CS.dll
